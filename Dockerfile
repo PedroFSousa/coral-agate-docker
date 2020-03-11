@@ -1,6 +1,6 @@
 FROM obiba/agate:1.4
 
-# testing the build
+# testing the build again
 LABEL maintainer="The INESC TEC Team <coral@lists.inesctec.pt>"
 LABEL system="Coral"
 
